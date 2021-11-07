@@ -34,8 +34,7 @@
 
 .satisfeito {
   border: 8px solid rgb(7, 212, 7);
-  animation: girando 3.6s ease-in
-   forwards;
+  animation: girando 3.6s ease-in forwards;
 }
 
 @keyframes girando {
